@@ -13,7 +13,7 @@ function LocationSection() {
       ></iframe>
       <Image
         className="w-full rounded-2xl overflow-hidden"
-        src="public/images/Mostafa_Kamel_Square_Cairo.jpg"
+        src="/images/Mostafa_Kamel_Square_Cairo.jpg"
       />
     </div>
   );
