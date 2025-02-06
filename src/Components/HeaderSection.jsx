@@ -4,7 +4,7 @@ import Image from "./Image";
 function HeaderSection() {
   const [show, setShow] = useState(false);
   return (
-    <div className="px-10 py-10 bg-[url('/public/Flag_of_Egypt_(1882-1922).png')] h-screen  bg-cover bg-center bg-no-repeat overflow-hidden  flex items-center flex-col gap-7 md:flex-row">
+    <div className="px-10 py-10 bg-[url('/public/Flag_of_Egypt_1882-1922.png')] h-screen  bg-cover bg-center bg-no-repeat overflow-hidden  flex items-center flex-col gap-7 md:flex-row">
       <div className="flex flex-col  flex-auto  md:justify-center h-full text-white space-y-7 md:w-[50%] ">
         <h2 className="text-3xl md:text-7xl font-bold">Mustafa Kamel Pasha</h2>
         <p className="text-xl md:text-2xl text-paragraph">
