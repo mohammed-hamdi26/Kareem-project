@@ -32,7 +32,7 @@ function EventsSection() {
             info={
               "Mustafa Kamel Pasha was one of the strongest opponents of the Denshawai Incident in 1906, when Egyptian peasants were executed after a confrontation with British occupiers. Mustafa Kamel strongly condemned the brutal treatment by the British authorities and used the incident to raise national awareness in Egypt against British colonialism."
             }
-            image={"./public/دنشواي.webp"}
+            image={"public/images/دنشواي.webp"}
           />
         </SwiperSlide>
         <SwiperSlide>
@@ -41,7 +41,7 @@ function EventsSection() {
             info={
               "Mustafa Kamel Pasha founded the 'National Party' in 1907, aiming to achieve Egypt's independence from British occupation and promote the rights of Egyptians. He played a significant role in raising national awareness and fighting against colonialism through his speeches and written works."
             }
-            image={"./public/الحزب الوطني.jpg"}
+            image={"public/images/الحزب الوطني.jpg"}
           />
         </SwiperSlide>
         <SwiperSlide>
@@ -50,7 +50,7 @@ function EventsSection() {
             info={
               "Mustafa Kamel Pasha founded the newspaper 'Al-Liwaa' in 1900, which became a key platform for advocating national independence and resisting British occupation. He used the newspaper to spread his political ideas and encourage the Egyptian people to fight for freedom and independence."
             }
-            image={"./public/جريدة اللواء.jpg"}
+            image={"public/images/جريدة اللواء.jpg"}
           />
         </SwiperSlide>
       </Swiper>
